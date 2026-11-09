@@ -1,1 +1,2 @@
 Git BasicS and commands
+Adding more Git tips
